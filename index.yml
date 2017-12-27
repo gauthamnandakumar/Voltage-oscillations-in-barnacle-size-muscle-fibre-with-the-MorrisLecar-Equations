@@ -1,0 +1,12 @@
+Title-Voltage oscillations in barnacle size muscle fibre with the MorrisLecar Equations
+
+Name-Rahul Mohandas, Gautham Nandakumar
+
+Abstract-Barnacle muscle fibers produce constant oscillations
+when their internal medium consist of Ca++ ions.
+These oscillations can be abolished if the K+ conductance is blocked/if the Ca++ ions are removed. We aim
+to develop a model using Simulink that displays variability in system parameters. We use the Morris-Lecar
+equation to model the two systems and analyze its propensity to develop damped oscillations under varying
+parameters. It is concluded that a system with two no
+activating conductance can exhibit varying oscillatory
+behavior
